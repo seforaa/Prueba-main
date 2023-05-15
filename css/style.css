@@ -1,0 +1,44 @@
+
+#logo {
+    float: left;
+    margin-right: 10px;
+}
+
+.contenedor-articulo {
+    width: auto;
+    height: auto;
+}
+.texto {
+    height: 60%;
+    width: 100%;
+
+
+}
+.titulo {
+    width: 100%;
+    height: 100%;
+    margin: 20px;
+}
+
+.imagen {
+    margin: 5px;
+    width: 50%;
+    height: 40%;
+
+}
+.contenedor-imagen-titulo {
+    display: flex;
+}
+
+.noticia {
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+.float{
+    float: left;
+}
+
+*{
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+}
